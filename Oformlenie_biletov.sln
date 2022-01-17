@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oformlenie_biletov", "Oformlenie_biletov.csproj", "{46FCCAE7-F796-4DEC-95A7-924B176A9FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_1", "UnitTest_1\UnitTest_1.csproj", "{1E73619C-0B99-4EA5-9822-27DF931CEED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FCCAE7-F796-4DEC-95A7-924B176A9FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FCCAE7-F796-4DEC-95A7-924B176A9FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FCCAE7-F796-4DEC-95A7-924B176A9FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FCCAE7-F796-4DEC-95A7-924B176A9FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E73619C-0B99-4EA5-9822-27DF931CEED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E73619C-0B99-4EA5-9822-27DF931CEED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E73619C-0B99-4EA5-9822-27DF931CEED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E73619C-0B99-4EA5-9822-27DF931CEED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E592F47-2ABC-45D8-94C2-090CAAE7B3AC}
+	EndGlobalSection
+EndGlobal
